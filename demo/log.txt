@@ -1,0 +1,55 @@
+[ERROR] Cannot translate script file : TestComponent.lua
+[ERROR] Cannot translate script file : TestComponent.lua
+[ERROR] Cannot translate script file : TestComponent.lua
+[ERROR] Cannot translate script file : TestComponent.lua
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate script file : TestComponent.lua
+[ERROR] Cannot translate script file : TestComponent.lua
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate TestComponent's Render function
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's LoadContent function
+[ERROR] Cannot translate MainComponent's Initialize function
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate MainComponent's Update function
+[ERROR] Cannot translate script file : OverComponent.lua
+[ERROR] Cannot translate script file : OverComponent.lua
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate script file : MainComponent.lua
+[ERROR] Cannot translate ListComponent's Initialize function
+[ERROR] Cannot translate ListComponent's Initialize function
+[ERROR] Cannot translate ListComponent's UnloadContent function
+[ERROR] Cannot translate ListComponent's UnloadContent function
