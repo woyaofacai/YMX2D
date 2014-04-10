@@ -1,10 +1,9 @@
 YMX2D
 =====
 
-<p>
-This is the first Game Engine entirely developed by myself.
+<p>This is the first Game Engine entirely developed by myself.</p>
 
-If you want to download the binary resources, or read the tutorials, please visit its webset:
+<p>If you want to download the binary resources, or read the tutorials, please visit its webset:
 
 <a href="http://ymx2d.sinaapp.com/" target="_blank"/>http://ymx2d.sinaapp.com</a>
 
